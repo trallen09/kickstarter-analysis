@@ -1,6 +1,6 @@
 # Kickstarting with Excel
 
-## Overview of Project
+## Visualizing kickstarter campaign outcomes based on their launch dates and their funding goals
 
 ### Purpose
 
