@@ -5,6 +5,7 @@
 ### Purpose
 
 ## Analysis and Challenges
+The analysis was performed by using kickstarter campaign data which included useful information. The information included over four thousand rows of information which included important pieces of information such as: Date created, date ended, goal amounts, pledge amounts, parent category and subcategory, and campaign outcomes.   
 
 ### Analysis of Outcomes Based on Launch Date
 
