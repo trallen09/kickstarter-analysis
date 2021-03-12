@@ -3,7 +3,7 @@
 ## Visualizing kickstarter campaign outcomes based on their launch dates and their funding goals
 
 ### Purpose
-The analysis consisted of isolating the theater launch date and goal data so that Louise could compare her results with the rest of the plays.
+The objective was to allow Louise ability to compare her kickstarter campaign results with the rest of the plays, This would be performed by isolating the theater launch date, outcomes and goal data so that Louise could determine where she stands.
 
 ## Analysis and Challenges
 The analysis was performed by using kickstarter campaign data which included useful information. The information included data such as: Date created, date ended, goal amounts, pledge amounts, parent category and subcategory, and campaign outcomes. 
